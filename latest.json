@@ -1,0 +1,8 @@
+{
+  "build": 34,
+  "version": "1.0",
+  "notes": "Learn: a word that makes no sense to learn can now be deleted right in the round – trash button at the top right (Mac: ⌘⌫).",
+  "iosManifest": "https://gogo6969.github.io/English-Learner-Builds/manifest-34.plist",
+  "macZip": "https://gogo6969.github.io/English-Learner-Builds/EnglishLearner-mac-34.zip",
+  "macSHA256": "16b0cc3d28e6ede874daf3213010d69953df1f7af22fee3986d9f5fa582a3849"
+}
