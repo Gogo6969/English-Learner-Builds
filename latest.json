@@ -1,0 +1,8 @@
+{
+  "build": 37,
+  "version": "1.0",
+  "notes": "Sentences: new sentences from the M5 every round (no more learning one fixed sentence), shown in light boxes. Settings: explanations behind a (?).",
+  "iosManifest": "https://gogo6969.github.io/English-Learner-Builds/manifest-37.plist",
+  "macZip": "https://gogo6969.github.io/English-Learner-Builds/EnglishLearner-mac-37.zip",
+  "macSHA256": "a7c0a3d080a750ead589f892cd1572c15f97364a36bdb5993e8c42ac90723118"
+}
