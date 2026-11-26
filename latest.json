@@ -1,0 +1,8 @@
+{
+  "build": 38,
+  "version": "1.0",
+  "notes": "Meanings like \"sich einer Sache nicht bewusst\" now get their verb (\"… sein\") – stored words are fixed at start, new words come complete.",
+  "iosManifest": "https://gogo6969.github.io/English-Learner-Builds/manifest-38.plist",
+  "macZip": "https://gogo6969.github.io/English-Learner-Builds/EnglishLearner-mac-38.zip",
+  "macSHA256": "a5fff12fb1475fd5b7ab73873ce273bca6fb5d4ea0b0e1b3f6b535a133a7a623"
+}
